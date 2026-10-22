@@ -1,0 +1,15 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "A module to check if a number is prime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["prime",
+    "math",
+    "checker"],
+  "author": "olumide",
+  "license": "MIT",
+  "type": "commonjs"
+}
